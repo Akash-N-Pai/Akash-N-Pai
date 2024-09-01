@@ -34,12 +34,92 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Technical Skills</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,tensorflow" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,mysql,mongodb,kafka" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Programming Languages</strong></td>
+    <td align="center"><strong>AI & Machine Learning</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+      <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Caffe-0E2A1B?style=flat-square&logo=caffe&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAX-FF6F00?style=flat-square&logo=jax&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web Development</strong></td>
+    <td align="center"><strong>Database & Big Data</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
+    <td align="center"><strong>GPU & HPC</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCL-AC162C?style=flat-square&logo=opencl&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenACC-818181?style=flat-square&logo=openacc&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA%20RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/cuBLAS-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/MPI-818181?style=flat-square&logo=mpi&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenMP-818181?style=flat-square&logo=openmp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Others</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Valgrind-818181?style=flat-square&logo=valgrind&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gprof-818181?style=flat-square&logo=gprof&logoColor=white" />
+      <img src="https://img.shields.io/badge/Perf-818181?style=flat-square&logo=perf&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
