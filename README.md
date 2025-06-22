@@ -9,9 +9,9 @@
 
 ---
 
-### 🌟 Welcome to My GitHub
+<h2 align="center">🌟 Welcome to My GitHub</h2>
 
-```yaml
+<pre>
 name: Akash Pai
 role: Software Engineer | AI Researcher | Cloud Developer
 location: Chicago, IL
@@ -22,103 +22,108 @@ interests:
   - Cloud-Native Systems & DevOps
   - Quantitative Research
   - Embedded Firmware & IoT
-```
+</pre>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
+<p>
 I specialize in building intelligent systems that learn, adapt, scale, and drive real-world impact.
-
+</p>
+<p>
 Currently working on:
-- 🧠 LLM agents & multi-tool systems (LangGraph, ADK, FastAPI)
-- 📶 Smart IoT energy monitoring at scale (Zigbee + GCP)
-- 📈 Real-time GitHub repo analytics (LSTM + Prophet)
-- ⚙️ ChampSim memory prefetcher simulator (GHB-based)
+</p>
+<ul>
+  <li>🧠 LLM agents & multi-tool systems (LangGraph, ADK, FastAPI)</li>
+  <li>📶 Smart IoT energy monitoring at scale (Zigbee + GCP)</li>
+  <li>📈 Real-time GitHub repo analytics (LSTM + Prophet)</li>
+  <li>⚙️ ChampSim memory prefetcher simulator (GHB-based)</li>
+</ul>
 
 ---
 
-## 🧰 Tech Toolbox
+<h2 align="center">🧰 Tech Toolbox</h2>
 
-### 💻 Programming Languages
-```text
-Python | C++ | JavaScript | SQL | R | Scala | Java | Apex
-```
+<h4>💻 Programming Languages</h4>
+<pre>Python | C++ | JavaScript | SQL | R | Scala | Java | Apex</pre>
 
-### 🧠 Frameworks & Libraries
-```text
-FastAPI | Flask | React | Node.js | LangGraph | Scikit-learn | StatsModels | PyTorch | TensorFlow | Prophet | Streamlit
-```
+<h4>🧠 Frameworks & Libraries</h4>
+<pre>FastAPI | Flask | React | Node.js | LangGraph | Scikit-learn | StatsModels | PyTorch | TensorFlow | Prophet | Streamlit</pre>
 
-### ☁️ Cloud & DevOps
-```text
-AWS | GCP | Docker | Kubernetes | Terraform | GitHub Actions | Firebase
-```
+<h4>☁️ Cloud & DevOps</h4>
+<pre>AWS | GCP | Docker | Kubernetes | Terraform | GitHub Actions | Firebase</pre>
 
-### 🛠️ Tools & Systems
-```text
-Salesforce | Kafka | Apache Spark | Elasticsearch | STM32 | Zigbee | MQTT | Grafana | Prometheus | Git | Linux
-```
+<h4>🛠️ Tools & Systems</h4>
+<pre>Salesforce | Kafka | Apache Spark | Elasticsearch | STM32 | Zigbee | MQTT | Grafana | Prometheus | Git | Linux</pre>
 
 ---
 
-## 📂 Featured Projects
+<h2 align="center">📂 Featured Projects</h2>
 
-### 🧠 Multi Tool Agent
-A modular LLM-agent orchestration project built with LangGraph + ADK for reasoning, tool use, and memory.
+<h4>🧠 Multi Tool Agent</h4>
+<ul>
+  <li>Modular LLM-agent orchestration with LangGraph + ADK</li>
+  <li>Supports APIs, memory persistence, retries, streaming</li>
+  <li>Deployed in Kubernetes clusters with real-time agents</li>
+</ul>
 
-- Integrated APIs, memory persistence, streaming, retries
-- Managed agents in multi-modal workflows (retrieval, APIs, math, PDF parsing)
-- Deployed and load-tested in Kubernetes
+<h4>📊 GitHub Forecasting Dashboard</h4>
+<ul>
+  <li>Full-stack Flask + React analytics dashboard</li>
+  <li>Forecasts using LSTM, Prophet, StatsModels</li>
+  <li>Dockerized microservices running on GCP</li>
+</ul>
 
-### 📊 GitHub Forecasting Dashboard
+<h4>🤖 CrustData Chatbot</h4>
+<ul>
+  <li>LangChain-based assistant for crust data reports</li>
+  <li>Supports PDF ingestion, semantic search via FAISS</li>
+  <li>FastAPI backend + GPT-4 inference</li>
+</ul>
 
-A GitHub analytics + forecasting dashboard:
-- Uses LSTM, StatsModels, and Prophet for commit/activity prediction
-- Flask API backend + React.js frontend
-- Dockerized deployment on GCP
+<h4>📦 Pantry Tracker</h4>
+<ul>
+  <li>MERN stack inventory app built during Headstarter</li>
+  <li>Offline-first local storage and responsive UI</li>
+  <li>Used by 1000+ users</li>
+</ul>
 
-### 🤖 CrustData Chatbot
-- Chatbot for crust energy reports using GPT + RAG pipelines
-- Streamed output using LangChain + FastAPI
-- Handles PDF ingestion and semantic embedding with FAISS
-
-### 📦 Pantry Tracker
-
-- MERN stack food inventory management
-- Local storage for offline-first support
-- Used by over 1000+ people
-
-### 🛸 ChampSim Prefetcher
-
-- Confidence-filtered stride-based GHB prefetcher
-- Implemented LRU-based index tracking
-- Evaluated across 10+ memory traces
-
----
-
-## 🔍 Other Notable Repos
-
-- [Portfolio Website](https://github.com/Akash-N-Pai/Portfolio)
-- [Decentralized Crowdfunding DApp](https://github.com/Akash-N-Pai/Decentralized-Crowdfunding-Platform)
-- [SSA GasTech MDA Architecture](https://github.com/Akash-N-Pai/SSA_Gas_Tech)
-- [Nova Avionics Firmware](https://github.com/Akash-N-Pai/nova-flight-computer)
-- [Practice Projects + Challenges](https://github.com/Akash-N-Pai/Practice_Projects)
-- [Salesforce Automations](https://github.com/Akash-N-Pai/flashcardsSAAS)
+<h4>🛸 ChampSim Prefetcher</h4>
+<ul>
+  <li>Confidence-filtered GHB stride-based prefetcher</li>
+  <li>Custom index tracking with LRU policy</li>
+  <li>Tested on 10+ memory traces</li>
+</ul>
 
 ---
 
-## 🧠 Experience Timeline
+<h2 align="center">📁 Other Notable Repos</h2>
 
-- **University of Chicago** – Research Intern (LLMs, LangGraph, Cloud Infra)
-- **Illinois Tech Research Assistant** – IoT Energy Monitor (Zigbee + GCP)
-- **Illinois Tech Rocketry** – Avionics Firmware Dev (RTOS, C++)
-- **Headstarter Fellow** – Full-stack + AI systems (Pantry Tracker, Chatbots)
-- **The Build Fellowship** – Ethereum smart contracts for lottery DApp
+<ul>
+  <li><a href="https://github.com/Akash-N-Pai/Portfolio">Portfolio Website</a></li>
+  <li><a href="https://github.com/Akash-N-Pai/Decentralized-Crowdfunding-Platform">Crowdfunding DApp</a></li>
+  <li><a href="https://github.com/Akash-N-Pai/SSA_Gas_Tech">SSA GasTech MDA System</a></li>
+  <li><a href="https://github.com/Akash-N-Pai/nova-flight-computer">Avionics Firmware System</a></li>
+  <li><a href="https://github.com/Akash-N-Pai/Practice_Projects">Practice Projects & Demos</a></li>
+  <li><a href="https://github.com/Akash-N-Pai/flashcardsSAAS">Salesforce Flashcards SaaS</a></li>
+</ul>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">🧠 Experience Timeline</h2>
+
+<ul>
+  <li><strong>University of Chicago</strong> – Research Intern (LLMs, LangGraph, Cloud Infra)</li>
+  <li><strong>Illinois Tech</strong> – Research Assistant (IoT + GCP Energy Dashboard)</li>
+  <li><strong>Illinois Tech Rocketry</strong> – Avionics Firmware (STM32, C++)</li>
+  <li><strong>Headstarter AI Fellow</strong> – Full-stack Projects + Chatbots</li>
+  <li><strong>Build Fellowship (QuickNode)</strong> – Ethereum Smart Contracts</li>
+</ul>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-N-Pai&show_icons=true&theme=react&hide_border=true" width="47%" />
@@ -127,16 +132,15 @@ A GitHub analytics + forecasting dashboard:
 
 ---
 
-## 🧭 Career Goals
-
-I'm looking for:
-- Quantitative Research / Quant Dev Roles
-- Cloud Infra & AI Engineering Roles
-- Backend/Data Platform Engineering Roles
-
-### 🚀 Let's Connect!
-- 💬 Open to collaborations, internships, and full-time roles
-- 🧠 Always learning — currently exploring observability stacks + graph LLMs
+<h2 align="center">🎯 Career Goals</h2>
+<p align="center">
+  Open to opportunities in:<br/>
+  <strong>Quantitative Research | AI Engineering | Cloud & Backend Systems</strong>
+</p>
+<p align="center">
+  💬 Always open to collaborations, mentorship, and building cool things.<br/>
+  🧠 Currently exploring observability stacks + LLM graph memory systems.
+</p>
 
 ---
 
